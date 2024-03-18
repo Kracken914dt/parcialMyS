@@ -1,1 +1,1 @@
-# parcialMyS
+# parcial1_modeloSimulacion
